@@ -1,0 +1,20 @@
+{
+  "name": "Radio Cicl\u00f3n",
+  "short_name": "RadioCicl\u00f3n",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#00BFFF",
+  "theme_color": "#00BFFF",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/J0BXg3qQ/7da1f4ef-5351-46f0-9355-e06f9582f67f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/J0BXg3qQ/7da1f4ef-5351-46f0-9355-e06f9582f67f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
